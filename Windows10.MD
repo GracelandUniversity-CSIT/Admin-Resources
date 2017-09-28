@@ -1,0 +1,18 @@
+# Windows 10 Setup
+## List of Programs
+- Microsoft Office
+  - Minus OneDrive for Biz and Skype
+- Microsoft Visio
+- Microsoft Project
+- Visual Studio ([See Visual Studio Setup](https://github.com/GracelandUniversity-CSIT/Admin-Resources/blob/master/VisualStudioInfo.md))
+- GitHub Desktop
+- Python 3
+- Google Chrome
+- Firefox
+- Notepad++ 64 bit
+  - Default Settings
+  - ***Plugin Manager Currently Unavalable
+  - Plugins
+    - XML Tools
+    - JS Tools
+- 
