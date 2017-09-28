@@ -16,10 +16,18 @@
     - XML Tools
     - JS Tools
 - Virtual box
+  - Windows 10
+  - Windows 7
+  - Ubuntu (Latest)
+  - Kali Linux
+  - 
 - Blender
 - WinSCP
 - Android Studio
 - Eclipse
+  - Eclipse IDE for Java Devlopers
 - Java JDK
 - Java
-- 
+- SQL Server Management Studio
+- Putty
+- Unity
