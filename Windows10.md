@@ -20,7 +20,8 @@
   - Windows 7
   - Ubuntu (Latest)
   - Kali Linux
-  - 
+  - Mint Linux
+  - Debian
 - Blender
 - WinSCP
 - Android Studio
@@ -31,3 +32,11 @@
 - SQL Server Management Studio
 - Putty
 - Unity
+  - Unity Core
+  - Documentation
+  - Standard Assets
+  - Microsoft Visual Studio
+  - Android Build Support
+  - iOS Build Stupport
+  - Linux Build Support
+  - WebGL Build Support
