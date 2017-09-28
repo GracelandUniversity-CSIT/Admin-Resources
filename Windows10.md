@@ -15,4 +15,11 @@
   - Plugins
     - XML Tools
     - JS Tools
+- Virtual box
+- Blender
+- WinSCP
+- Android Studio
+- Eclipse
+- Java JDK
+- Java
 - 
