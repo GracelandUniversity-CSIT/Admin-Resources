@@ -1,10 +1,7 @@
 # Visual Studio Info
 
 ## List of needed packages
-- Universal Windows Platform Development
-- .NET desktop development
-- Desktop development with C++
-- ASP.NET and web development
+- All Main Packages 
 ### Individual Components
 - GitHub extension for Visual Studio
 
