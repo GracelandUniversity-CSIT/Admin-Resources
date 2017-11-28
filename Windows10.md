@@ -23,6 +23,8 @@
   - Mint Linux
   - Debian
 - Blender
+- Flex Windows
+- Lego Mindstorms
 - WinSCP
 - Android Studio
 - Eclipse
