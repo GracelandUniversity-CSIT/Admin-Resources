@@ -27,3 +27,7 @@ sudo ./install.sh
     - Choose: N, or Yes if you need it.
   - Are you sure you wish to continue (Y/N)
     - Check if everything is correct and confirm with Y
+
+
+6. Boot into the web UI
+7. Have the correct IP set in the storage management and FOG management
