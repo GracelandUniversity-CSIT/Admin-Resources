@@ -1,7 +1,14 @@
 # FOG SETUP
 1. Install ubuntu with default settings
 2. Setup IP address
-3. Install FOD with default setting
+3. Download FOG 
+4. Run below commands
+```
+tar -xzvf fog_x.x.x.tar.gz
+cd fog_x.x.x/bin
+sudo ./install.sh
+```
+5. Install with default settings
   - What type of installation would you like to do? [N/s (Normal/Storage)]
     - Choose: N
   - What is the IP address to be used by this FOG Server? [TheIpYouSetUpEarlier]
