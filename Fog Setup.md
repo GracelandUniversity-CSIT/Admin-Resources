@@ -1,7 +1,7 @@
 # FOG SETUP
 1. Install ubuntu with default settings
 2. Setup IP address
-3. Download FOG 
+3. Download FOG [(Download Link)](https://fogproject.org/download)
 4. Run below commands
 ```
 tar -xzvf fog_x.x.x.tar.gz
